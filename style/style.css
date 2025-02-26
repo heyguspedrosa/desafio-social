@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    font-size: 14px;
+    margin: 30px;
+}
+
+p {
+    font-size: 16px;
+}
+
+.descricao {
+    width: 500px;
+}
